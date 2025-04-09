@@ -1,8 +1,11 @@
 
 ---
-  <img src="/pic.png" alt="WebPic"/>
-## Description:
-## I have build an modern, interactive 3D website using HTML, CSS, and Spline?  I have integrated a 3D model into my website for a sleek, immersive experience! 🌐✨
+<img src="/pic.png" alt="WebPic"/>
+<h2>🚀 Description</h2>
+
+### I have built a modern, interactive 3D website using HTML, CSS, and Spline.
+### I have integrated a 3D model into my website for a sleek, immersive experience! 🌐✨.
+
 
 ## 🔥 What Did I Learn:
 ## ✅ How to create and customize 3D models in Spline
